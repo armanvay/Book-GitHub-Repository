@@ -1,0 +1,14 @@
+
+
+
+
+
+
+{
+"rewrites":[
+{
+"sourec":"/(.*) ",
+"destination":"/index.html"
+}
+]
+}
